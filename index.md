@@ -27,10 +27,36 @@ This project analyzes the **CAERS** dataset to identify patterns in food and dru
 [View code on GitHub](https://github.com/tmilen/CAERSDataAnalysis)
 
 ---
+### Predicting Gestational Diabetes Risk  
+Gestational diabetes can have significant health implications for both the mother and baby. In this project, I developed three **machine learning models** that predicts gestational diabetes risk based on various clinical and demographic factors. The model aims to assist healthcare professionals in early detection and intervention. Moreover, a simple **interactive UI** was built using `ipywidgets` in Google Colab, allowing users to input feature values and obtain predictions from the trained models.
+
+![image](https://github.com/user-attachments/assets/3f2071af-8019-40a3-9b1e-429710295f4d)
+
+![image](https://github.com/user-attachments/assets/5cd9da51-6db4-4b13-9203-48ab0e6db91d)
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#)  [![](https://img.shields.io/badge/Scikit--Learn-white?logo=scikit-learn)](#)  [![](https://img.shields.io/badge/Matplotlib-white?logo=matplotlib)](#)  
+
+[View code on GitHub](https://github.com/tmilen/Gestational-Diabetes-Prediction)
 
 ---
+### Predicting Critical Temperature in Superconductors   
+This project focuses on predicting the **critical temperature** of superconducting materials using **regression models** built with **two different libraries: SparkMLlib and Scikit-Learn**. By analyzing material compositions and properties, the model provides insights into superconducting behavior.
 
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#)  [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#)  [![](https://img.shields.io/badge/Scikit--Learn-white?logo=scikit-learn)](#)  
 
+[View code on GitHub](https://github.com/tmilen/critical-temp-prediction)
+
+---
+### Traffic Bottleneck Identification on Road Networks  
+This was my **Final Year Project (FYP)**, where I led a team to develop a **traffic bottleneck identification system**. The project focused on optimizing road networks by detecting congestion points and suggesting **efficient alternative routes**. 
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#)  [![](https://img.shields.io/badge/NetworkX-white?logo=networkx)](#) 
+
+Website: https://flowx.onrender.com
+
+[View code on GitHub](https://github.com/tmilen/FYP-Road-Network)
+
+---
 
 
 
