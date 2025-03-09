@@ -47,6 +47,18 @@ This project focuses on predicting the **critical temperature** of superconducti
 [View code on GitHub](https://github.com/tmilen/critical-temp-prediction)
 
 ---
+### Predicting Abalone Age Using Machine Learning  
+This project aims to predict the **age of abalones** based on physical attributes such as shell size and weight. Using **machine learning regression models**, I implemented **Linear Regression, Decision Tree, and Random Forest** to estimate abalone age. The model is deployed as a web application for easy access and use.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#)  [![](https://img.shields.io/badge/Scikit--Learn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#)
+
+Website: [https://abalone-age-prediction-wtct.onrender.com](https://abalone-age-prediction-wtct.onrender.com)  
+
+[View code on GitHub](https://github.com/tmilen/abalone-age-prediction)
+
+![image](https://github.com/user-attachments/assets/b4e0209f-fc80-40c6-af88-52b2f07bc02c)
+
+---
 ### Traffic Bottleneck Identification on Road Networks  
 This was my **Final Year Project (FYP)**, where I led a team to develop a **traffic bottleneck identification system**. The project focused on optimizing road networks by detecting congestion points and suggesting **efficient alternative routes**. 
 
