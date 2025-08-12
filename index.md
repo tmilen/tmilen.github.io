@@ -9,6 +9,8 @@ This project demonstrates a **real-time American Sign Language (ASL) recognition
 Using the [ASL Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet), I trained a **CNN model** to recognize **29 different ASL gestures** (A–Z and special signs).  
 The system integrates **MediaPipe** for hand detection and cropping, and **OpenCV** for streaming and displaying predictions in real time.
 
+![image](https://github.com/user-attachments/assets/3f0b0ee2-0e62-4fb6-8d49-4b136047331f)
+
 ![Python](https://img.shields.io/badge/Python-white?logo=python)
 ![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)
@@ -66,13 +68,13 @@ This project focuses on predicting the **critical temperature** of superconducti
 ### Predicting Abalone Age Using Machine Learning  
 This project aims to predict the **age of abalones** based on physical attributes such as shell size and weight. Using **machine learning regression models**, I implemented **Linear Regression, Decision Tree, and Random Forest** to estimate abalone age. The model is deployed as a web application for easy access and use.
 
+![image](https://github.com/user-attachments/assets/b4e0209f-fc80-40c6-af88-52b2f07bc02c)
+
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#)  [![](https://img.shields.io/badge/Pandas-white?logo=pandas)](#)  [![](https://img.shields.io/badge/Scikit--Learn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/NumPy-white?logo=numpy)](#)
 
 Website: [https://abalone-age-prediction-wtct.onrender.com](https://abalone-age-prediction-wtct.onrender.com)  
 
 [View code on GitHub](https://github.com/tmilen/abalone-age-prediction)
-
-![image](https://github.com/user-attachments/assets/b4e0209f-fc80-40c6-af88-52b2f07bc02c)
 
 ---
 ### Traffic Bottleneck Identification on Road Networks  
