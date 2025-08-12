@@ -4,6 +4,22 @@
 
 ### My Data Science, Machine Learning, and NLP projects
 
+#### American Sign Language (ASL) Real-Time Recognition
+This project demonstrates a **real-time American Sign Language (ASL) recognition system** using **TensorFlow/Keras** and **OpenCV**.  
+Using the [ASL Alphabet Dataset](https://www.kaggle.com/datasets/grassknoted/asl-alphabet), I trained a **CNN model** to recognize **29 different ASL gestures** (A–Z and special signs).  
+The system integrates **MediaPipe** for hand detection and cropping, and **OpenCV** for streaming and displaying predictions in real time.
+
+![Python](https://img.shields.io/badge/Python-white?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-white?logo=jupyter)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-white?logo=keras)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?logo=opencv)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-white?logo=mediapipe)
+
+[View Kaggle Notebook](https://www.kaggle.com/code/notsu66/asl-recognition-project/notebook)  
+[View on GitHub](https://github.com/tmilen/ASL-Recognition)
+
+---
 #### Sentiment Analysis on Tweets
 Sentiment analysis helps analyze the emotions behind tweets and other text data. This project uses **XLM-RoBERTa**, a multilingual transformer model, to classify tweets into **positive, negative, or neutral** sentiments. By fine-tuning the model with **Hugging Face Transformers**, I leveraged **transfer learning** for improved accuracy in sentiment classification.
 
